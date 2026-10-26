@@ -10,6 +10,8 @@ optimizer_runs = 200
 
 remappings = ["@openzeppelin/=lib/openzeppelin-contracts/"]
 
+fs_permissions = [{ access = "read-write", path = "./svg" }]
+
 [profile.default.fuzz]
 runs = 1000
 
