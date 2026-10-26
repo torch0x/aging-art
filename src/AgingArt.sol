@@ -249,9 +249,9 @@ contract AgingArt is ERC721 {
                 '<ellipse cx="305" cy="135" rx="19" ry="10"/><ellipse cx="245" cy="365" rx="50" ry="16"/>',
                 '</g>',
                 '<g fill="#384924" opacity="0.85">',
-                '<path d="M210 230 Q205 280 200 310" stroke="#384924" stroke-width="4" stroke-linecap="round"/>',
-                '<path d="M260 240 Q265 295 270 330" stroke="#384924" stroke-width="5" stroke-linecap="round"/>',
-                '<path d="M165 155 Q162 195 160 215" stroke="#384924" stroke-width="3" stroke-linecap="round"/>',
+                '<path d="M210 230 Q205 280 200 310" stroke="#384924" stroke-width="4" stroke-linecap="round" fill="none"/>',
+                '<path d="M260 240 Q265 295 270 330" stroke="#384924" stroke-width="5" stroke-linecap="round" fill="none"/>',
+                '<path d="M165 155 Q162 195 160 215" stroke="#384924" stroke-width="3" stroke-linecap="round" fill="none"/>',
                 '<circle cx="235" cy="270" r="8"/><circle cx="265" cy="235" r="9"/>',
                 '</g>'
             );
